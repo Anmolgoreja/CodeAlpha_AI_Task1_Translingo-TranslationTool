@@ -3,10 +3,8 @@ from deep_translator import GoogleTranslator
 from gtts import gTTS
 from io import BytesIO
 
-
 st.title("🌐 TransLingo")
 st.caption("Connecting Languages, Simplifying Communication.")
-
 
 languages = {
     "English": "en",
@@ -26,14 +24,12 @@ languages = {
     "Dutch": "nl"
 }
 
-
 source_options = ["Auto Detect"] + list(languages.keys())
 
 source = st.selectbox("Source Language", source_options)
 target = st.selectbox("Target Language", languages.keys())
 
 text = st.text_area("Enter text")
-
 
 if st.button("Translate"):
 
