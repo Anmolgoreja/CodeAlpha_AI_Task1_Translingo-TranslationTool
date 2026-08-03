@@ -66,4 +66,5 @@ if st.button("Translate"):
             st.audio(audio.getvalue(), format="audio/mp3")
 
         except Exception:
-            st.error("Translation failed. Please check your internet connection.")
+            st.error("Translation failed. Please check your internet connection.")   
+            

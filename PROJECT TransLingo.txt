@@ -1,0 +1,8 @@
+PROJECT: TransLingo
+Language Translation Tool
+
+GitHub Repository:
+https://github.com/Anmolgoreja/CodeAlpha_AI_Task1_TransLingo
+
+Live Project:
+https://codealphaaitask1translingo-jksmtyffff58rfxrqsojl6.streamlit.app/
