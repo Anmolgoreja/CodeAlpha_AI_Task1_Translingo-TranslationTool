@@ -63,7 +63,7 @@ TransLingo/
 Clone the repository:
 
 ```bash
-git clone https://github.com/anmolgoreja/TransLingo.git
+git clone https://github.com/Anmolgoreja/CodeAlpha_AI_Task1_TransLingo.git
 ```
 
 Navigate to the project folder:
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python -m streamlit run app.py
+python -m streamlit run Translingo.py
 ```
 
 ---
