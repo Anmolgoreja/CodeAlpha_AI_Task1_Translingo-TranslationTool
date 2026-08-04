@@ -9,7 +9,7 @@
 
 🚀 **Live Demo**
 
-<a href="https://codealphaaitask1translingo-jksmtyffff58rfxrqsojl6.streamlit.app/">
+<a href="https://codealpha-ai-task2-faq-chatbot.streamlit.app/">
 <img src="https://img.shields.io/badge/Open%20Application-Live%20Demo-00A8A8?style=for-the-badge"/>
 </a>
 
