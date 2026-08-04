@@ -63,7 +63,7 @@ TransLingo/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Anmolgoreja/CodeAlpha_AI_Task1_TransLingo.git
+git clone https://github.com/Anmolgoreja/CodeAlpha_AI_Task1_Translingo-TranslationTool.git
 ```
 
 Navigate to the project folder:
